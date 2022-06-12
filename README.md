@@ -13,4 +13,4 @@ Project is created with:
 * CSS
 
 ## Setup
-To run this project, you can simple git clone on yout machine and run the index.html file
+To run this project, you can simple git clone in your machine and run the index.html file
